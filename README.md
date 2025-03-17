@@ -22,9 +22,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamedhassan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedhassan07" height="30" width="40" /></a>
 <a href="http://wa.me/+201096493188" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="mailto:mo7amedhassan07@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Logo.svg" alt="Gmail" height="30" width="40" />
-</a>
 </p>
 <hr>
 <h3 align="left">🛠 Languages and Tools:</h3>
