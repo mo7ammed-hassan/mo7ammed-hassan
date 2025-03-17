@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hassan</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mo7ammed-Hassan/Mo7ammed-Hassan/main/banner.png" alt="Mohamed Hassan Banner"/>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo7ammed-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mo7ammed-hassan" /> </p>
 
 - 🚀 I’m currently working as a **Flutter Developer**
@@ -51,7 +47,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7ammed-hassan&show_icons=true&locale=en&layout=compact&theme=radical" alt="mo7ammed-hassan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7ammed-hassan&theme=radical" alt="mo7ammed-hassan" /></p>
 
-<h3 align="left">☕ Support Me:</h3>
-<p align="left">
-<a href="https://www.buymeacoffee.com/mo7ammedhassan"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mo7ammedhassan&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
-</p>
